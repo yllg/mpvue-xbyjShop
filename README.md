@@ -11,7 +11,6 @@
 # 项目运行
 ```
 微信开发中工具选中mpvue-xbyjShop/buyer作为项目目录即可
-
 ```
 
 # 功能列表
@@ -182,7 +181,7 @@ Nginx反向代理
 ### 公众号、技术交流群
 <img src="https://github.com/yllg/xbyjMusic/blob/master/screenshots/13.%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" width="200" height="200"/> <img src="https://github.com/yllg/xbyjMusic/blob/master/screenshots/14.%E5%BE%AE%E4%BF%A1%E7%BE%A4.png" width="250" height="312"/>
 
-2、捐赠 Donate
+2、捐赠 Donate</br>
 如果我的项目对你有帮助，也可以给我打赏一下哦~
 
 ### 支付宝和微信支付
