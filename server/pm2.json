@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "xbyjshop",
+    "script": "production.js",
+    "cwd": "/var/www/server-product",
+    "exec_mode": "fork",
+    "max_memory_restart": "256M",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
