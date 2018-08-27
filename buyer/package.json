@@ -45,7 +45,7 @@
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
     "mpvue-entry": "^1.2.0",
-    "mpvue-loader": "^1.0.13",
+    "mpvue-loader": "1.0.13",
     "mpvue-template-compiler": "^1.0.11",
     "mpvue-webpack-target": "^1.0.0",
     "mpvue-wxparse": "^0.6.5",
